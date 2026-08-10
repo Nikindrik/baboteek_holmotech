@@ -1,0 +1,13 @@
+[project]
+name = "baboteek-holmotech"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "catboost>=1.2.10",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "polars>=1.43.2",
+    "scikit-learn>=1.9.0",
+]
